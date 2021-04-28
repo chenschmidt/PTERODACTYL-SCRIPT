@@ -1,0 +1,33 @@
+SCRIPT
+bash <(curl -s https://pterodactyl-installer.se)
+
+CREDITS AND SPECIAL THANKS TO VILHELMPRYTZ
+https://github.com/vilhelmprytz/pterodactyl-installer
+
+SAMPLE DETAILS 
+
+DATABASE NAME:ptztest
+USERNAME:ptztest
+PASS:ptztest
+TIMEZONE:Asia/Manila
+EMAIL:youremail@gmail.com
+USERNAME:ptztest
+PASS:ptztest
+FQDN:youripaddress
+UFW:N
+LETS ENCRYPT:N
+SSL:N
+
+MYSQL:N
+UFW:N
+LETS ENCRYPT:N
+
+
+YOUTUBE PARTNERS
+SUBSCRIBE TO 
+
+REV PH TECH 🔥
+https://youtube.com/channel/UCsSUGA5OOvpa6dtkhhun2kw
+
+MAXX
+https://youtube.com/channel/UCBM4qvvqg3D_pIF4fi0pJPg
